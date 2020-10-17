@@ -10,3 +10,7 @@ Jenkins.instance.pluginManager.plugins.each{
     println ("${plugin.getShortName()}: ${plugin.getVersion()}")
 }
 ```
+
+```
+docker run -d -p 8080:8080 -p 50000:50000 navaneethreddydevops/jenkins:1.0
+```
