@@ -274,7 +274,7 @@ pipeline-model-definition: 1.7.2
 kubernetes-credentials: 0.7.0
 jenkins-design-language: 1.24.1
 blueocean-core-js: 1.24.1
-google-cloudbuild: 0.2.2 (2018-10-17T19:01:41Z)
+google-cloudbuild: 0.2.2
 blueocean-jwt: 1.24.1
 blueocean-rest-impl: 1.24.1
 ldap: 1.26
