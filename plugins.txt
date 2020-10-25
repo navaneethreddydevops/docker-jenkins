@@ -141,7 +141,6 @@ statusmonitor: 1.3
 maven-plugin: 3.8
 hudson-wsclean-plugin: 1.0.8
 config-file-provider: 3.7.0
-delete-log-plugin: 1.0
 sourcemonitor: 0.2
 slave-setup: 1.10
 blueocean-pipeline-scm-api: 1.24.1
@@ -258,7 +257,6 @@ workflow-basic-steps: 2.22
 github-api: 1.116
 docker-workflow: 1.24
 docker-build-step: 2.5
-github: 1.31.0
 docker-build-publish: 1.3.2
 docker-compose-build-step: 1.0
 workflow-multibranch: 2.22
@@ -272,7 +270,7 @@ pipeline-stage-tags-metadata: 1.7.2
 pipeline-model-definition: 1.7.2
 jenkins-design-language: 1.24.1
 blueocean-core-js: 1.24.1
-google-cloudbuild: 0.2.2 (2018-10-17T19:01:41Z)
+google-cloudbuild: 0.2.2
 blueocean-jwt: 1.24.1
 blueocean-rest-impl: 1.24.1
 ldap: 1.26
@@ -317,7 +315,6 @@ secure-post-script: 0.1
 pipeline-global-lib-nexus: 0.2.2
 workflow-cps-global-lib-http: 1.5.0
 global-pre-script: 20.02
-cloudbees-devoptics-enabler: 0.4
 cloudbees-jenkins-advisor: 3.2.1
 generic-webhook-trigger: 1.68
 external-monitor-job: 1.7
@@ -537,7 +534,6 @@ pipeline-stage-tags-metadata: 1.7.2
 pipeline-model-definition: 1.7.2
 jenkins-design-language: 1.24.1
 blueocean-core-js: 1.24.1
-google-cloudbuild: 0.2.2 (2018-10-17T19:01:41Z)
 blueocean-jwt: 1.24.1
 blueocean-rest-impl: 1.24.1
 ldap: 1.26
@@ -581,7 +577,6 @@ secure-post-script: 0.1
 pipeline-global-lib-nexus: 0.2.2
 workflow-cps-global-lib-http: 1.5.0
 global-pre-script: 20.02
-cloudbees-devoptics-enabler: 0.4
 cloudbees-jenkins-advisor: 3.2.1
 generic-webhook-trigger: 1.68
 external-monitor-job: 1.7
@@ -665,7 +660,6 @@ docker-slaves: 1.0.7
 slack: 2.43
 all-changes: 1.5
 timestamper: 1.11.8
-devoptics: 1.1863
 convert-to-pipeline: 1.0
 jobConfigHistory: 2.26
 electricflow: 1.1.18
@@ -693,7 +687,6 @@ sonargraph-integration: 5.0.1
 cucumber-trends-report: 1.3
 maven-invoker-plugin: 2.4
 maven-dependency-update-trigger: 1.5
-maven-repo-cleaner: 1.2
 dependencyanalyzer: 0.7
 maven-deployment-linker: 1.5.1
 repository: 1.3
