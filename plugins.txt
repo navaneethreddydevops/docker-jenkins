@@ -113,10 +113,8 @@ ec2-fleet: 2.2.0
 scalable-amazon-ecs: 1.0
 github-branch-source: 2.9.1
 blueocean-pipeline-scm-api: 1.24.1
-kubernetes-client-api: 4.11.1
 pipeline-stage-tags-metadata: 1.7.2
 pipeline-model-definition: 1.7.2
-kubernetes-credentials: 0.7.0
 jenkins-design-language: 1.24.1
 blueocean-core-js: 1.24.1
 google-cloudbuild: 0.2.2 (2018-10-17T19:01:41Z)
@@ -126,7 +124,6 @@ ldap: 1.26
 blueocean-pipeline-api-impl: 1.24.1
 metrics: 4.0.2.6
 blueocean-dashboard: 1.24.1
-kubernetes: 1.27.3
 blueocean-pipeline-editor: 1.24.1
 blueocean-github-pipeline: 1.24.1
 oauth-credentials: 0.4
@@ -164,7 +161,6 @@ pipeline-global-lib-nexus: 0.2.2
 workflow-cps-global-lib-http: 1.5.0
 global-pre-script: 20.02
 cloudbees-devoptics-enabler: 0.4
-kubernetes-credentials-provider: 0.15
 cloudbees-jenkins-advisor: 3.2.1
 generic-webhook-trigger: 1.68
 external-monitor-job: 1.7
@@ -177,7 +173,6 @@ nodejs: 1.3.9
 role-strategy: 3.1
 ivy: 2.1
 nodelabelparameter: 1.7.2
-kubernetes-cli: 1.9.0
 project-description-setter: 1.2
 description-setter: 1.10
 build-name-setter: 2.1.0
@@ -185,14 +180,12 @@ artifactory: 3.8.1
 extra-columns: 1.22
 thinBackup: 1.10
 uno-choice: 2.5.1
-kubernetes-pipeline-devops-steps: 1.6
 extensible-choice-parameter: 1.6.0
 date-parameter: 0.0.4
 resource-disposer: 0.14
 export-params: 1.9
 momentjs: 1.1.1
 global-variable-string-parameter: 1.2
-kubernetes-cd: 2.3.0
 h2-api: 1.4.199
 matrix-combinations-parameter: 1.3.1
 parameter-separator: 1.3
