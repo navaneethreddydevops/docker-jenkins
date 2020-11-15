@@ -1,6 +1,6 @@
 momentjs: 1.1.1
 trilead-api: 1.0.11
-cloudbees-folder: 6.14
+cloudbees-folder: 6.15
 antisamy-markup-formatter: 2.1
 git: 4.4.4
 jaxb: 2.3.0.1
@@ -183,7 +183,6 @@ aws-sam: 1.2.3
 junit: 1.42
 aws-lambda-cloud: 0.4
 codedeploy: 1.23
-cloudbees-folder: 6.14
 mailer: 1.32.1
 aws-codebuild: 0.51
 badge: 1.8
