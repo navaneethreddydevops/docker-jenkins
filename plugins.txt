@@ -474,7 +474,7 @@ jquery-detached: 1.2.1
 workflow-scm-step: 2.11
 copyartifact: 1.45.2
 workflow-support: 3.5
-workflow-cps: 2.83
+workflow-cps: 2.85
 token-macro: 2.12
 ec2-deployment-dashboard: 1.0.10
 antisamy-markup-formatter: 2.1
