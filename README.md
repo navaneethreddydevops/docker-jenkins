@@ -14,3 +14,9 @@ Jenkins.instance.pluginManager.plugins.each{
 ```
 docker run -d -p 8080:8080 -p 50000:50000 navaneethreddydevops/jenkins:1.0
 ```
+
+```
+
+docker-compose up -d && docker-compose logs -f
+
+```
